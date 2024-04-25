@@ -27,6 +27,14 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
+		},
+		{
+			"Name": "AbilitySystemGameFeatureActions",
+			"Enabled": true
+		},
+		{
+			"Name": "TargetingSystem",
+			"Enabled": true
 		}
 	]
 }
